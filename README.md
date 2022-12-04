@@ -5,3 +5,4 @@ TBD!
 
 ## Tutorial goals
 Explain each line of code in each tutorial more deeply
+Guie the reader through the code with a clear outline of what each section of code does
