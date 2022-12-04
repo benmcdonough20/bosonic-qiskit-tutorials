@@ -4,5 +4,5 @@ Collection of tutorial notebooks and bugs for the Bosonic Qiskit package
 TBD!
 
 ## Tutorial goals
-Explain each line of code in each tutorial more deeply
-Guie the reader through the code with a clear outline of what each section of code does
+* Explain each line of code in each tutorial more deeply
+* Guide the reader through the code with a clear outline of what each section of code does
