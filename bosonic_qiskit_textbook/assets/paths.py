@@ -1,1 +1,1 @@
-bosonic_qiskit_path = "/home/ben/Documents/Repos/bosonic-qiskit"
+bosonic_qiskit_path = "<PUT PATH TO BOSONIC QISKIT ROOT HERE>"
