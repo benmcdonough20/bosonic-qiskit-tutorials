@@ -1,0 +1,1 @@
+bosonic_qiskit_path = "/home/ben/Documents/Repos/bosonic-qiskit"
