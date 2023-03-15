@@ -1,0 +1,1 @@
+bosonic_qiskit_path = "<LOCAL PATH HERE>"
