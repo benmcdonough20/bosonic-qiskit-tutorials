@@ -3,7 +3,7 @@
 ## Forward
 This textbook presents a zero-to-sixty introduction to continuous-variable quantum computing. The intended audience has experience with quantum computing using qubits at the level of the [Qiskit Textbook](https://qiskit.org/textbook/preface.html), but is not assumed to have any previous experience with physics. The textbook is intended to be self-contained, in that mathematical formulas and quantum mechanics concepts are always introduced alongside proofs or guided exercises used to establish the facts when the proofs break the flow of the text. The guide mixes together the core concepts of quantum computing using bosonic modes with code examples from Bosonic Qiskit wherever appropriate. 
 
-A few choices were made with this textbook which hopefully expresses the necessary concepts more succintly:
+A few choices were made in this textbook which will hopefully express the necessary concepts more succintly:
 
 Firstly, in the discussion of harmonic oscillators, many quantum mechanics textbooks first present the classical Hamiltonian and then go through the procedure of quantizing it. Instead, we take the approach of first conceptualizing the quantized state space of a qumode, then we introduce the creation and annihilation operators, and finally we use these relations to arrive at the oscillator Hamiltonian in phase-space variables. The correpondence limit is then explored further using coherent states. The rationale is that from a computer science perspective, the physical details are often not as important to understand. 
 
@@ -29,7 +29,7 @@ Definition and representation in the number basis. Photon number distribution. O
 Introduction and motivation for considering Wigner distributions. Weyl quantization and recovering the trace from the Weyl transformation. The Wigner function as a Weyl transformation of the density matrix. Properties of the Wigner function including normalization, negativity, and real-valuedness. More generalized discussion of minimum-uncertainty states as Gaussians and a derivation of the Wigner function of a minimum-uncertainty state.
 
 ### Gates
-The Baker-Campbell-Hausedorff Lemma and Heisenburg's equations of motion. Discussion of the properties Gaussian gates including the following:
+The Baker-Campbell-Hausedorff Lemma and Heisenburg's equations of motion. Discussion of the properties of Gaussian gates including the following:
 
 * Phase space rotation
 * Displacement
