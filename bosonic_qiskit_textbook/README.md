@@ -1,9 +1,9 @@
 # Bosonic Qiskit Textbook
 
 ## Forward
-This textbook presents a zero-to-sixty introduction to continuous-variable quantum computing. The intended audience has experience with quantum computing using qubits at the level of the [Qiskit Textbook](https://qiskit.org/textbook/preface.html) but is not assumed to have any previous experience with physics. The textbook is intended to be self-contained, in that mathematical formulas and quantum mechanics concepts are always introduced alongside proofs or guided exercises used to establish the facts when the proofs break the flow of the text. The guide mixes together the core concepts of quantum computing using bosonic modes with code examples from Bosonic Qiskit wherever appropriate. 
+This textbook presents a zero-to-sixty introduction to continuous-variable quantum computing. The intended audience has experience with quantum computing using qubits at the level of the [Qiskit Textbook](https://qiskit.org/textbook/preface.html) but is not assumed to have any previous experience with physics. The textbook is intended to be self-contained, in that mathematical formulas and quantum mechanics concepts are always introduced alongside proofs or guided exercises. The guide mixes together the core concepts of quantum computing using bosonic modes with code examples from Bosonic Qiskit wherever appropriate. 
 
-This work was produced by the Bosonic Qiskit project group under the Yale undergraduate Quantum Computing group, consisting of Ben McDonough, Jeb Cui, and Gabriel Marous. Writing this was an incredible learning experience. We found the richest and most helpful source for quantum optics to be **Introductory Quantum Optics** by Gerry and Knight, which we recommend if you are interested in learning more. This project was supervised by Prof. Steven M. Girvin and Kevin Smith.
+This work was produced by the Bosonic Qiskit project group under the Yale undergraduate Quantum Computing club, consisting of Ben McDonough, Jeb Cui, and Gabriel Marous. Writing this was an incredible learning experience. We found the richest and most helpful source for quantum optics to be **Introductory Quantum Optics** by Gerry and Knight, which we recommend if you are interested in learning more. This project was supervised by Prof. Steven M. Girvin and Kevin Smith.
 
 ## Structure
 This textbook in its current form is divided into five parts:
@@ -29,12 +29,7 @@ The Baker-Campbell-Hausedorff Lemma and Heisenburg's equations of motion. Discus
 * Two-mode squeezing
 * Beamsplitter
 
-Presentation of conditional gates as derived from Gaussian gates. Illustration by measuring the geometrical phase of sequential displacement gates forming a loop.
+Definition of conditional gates as derived from Gaussian gates. Illustration by measuring the geometrical phase of sequential displacement gates forming a loop.
 
-## Usage and dependencies
-* Python 3.10.4
-* Qiskit 0.39.0
-* Bosonic Qiskit 6.0.1
-* Matplotlib 3.5.1
-* Scipy 1.9.0
-* Numpy 1.22.4
+## Dependencies
+* Bosonic Qiskit 8.0
