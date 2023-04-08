@@ -3,7 +3,9 @@
 ## Forward
 This textbook presents a zero-to-sixty introduction to continuous-variable quantum computing. The intended audience has experience with quantum computing using qubits at the level of the [Qiskit Textbook](https://qiskit.org/textbook/preface.html) but is not assumed to have any previous experience with physics. The textbook is intended to be self-contained, in that mathematical formulas and quantum mechanics concepts are always introduced alongside proofs or guided exercises. The guide mixes together the core concepts of quantum computing using bosonic modes with code examples from Bosonic Qiskit wherever appropriate. 
 
-This work was produced by the Bosonic Qiskit project group under the Yale undergraduate Quantum Computing club, consisting of Ben McDonough, Jeb Cui, and Gabriel Marous. Writing this was an incredible learning experience. We found the richest and most helpful source for quantum optics to be **Introductory Quantum Optics** by Gerry and Knight, which we recommend if you are interested in learning more. This project was supervised by Prof. Steven M. Girvin and Kevin Smith.
+This work was produced by the Bosonic Qiskit project group under the Yale undergraduate Quantum Computing club, consisting of Ben McDonough, Jeb Cui, and Gabriel Marous. Writing this was an incredible learning experience. We found the richest and most helpful source for quantum optics to be **Introductory Quantum Optics** by Gerry and Knight, which we recommend if you are interested in learning more. This project was supervised by Prof. Steven M. Girvin and Dr. Kevin Smith.
+
+The original project repository can be found here: https://github.com/benmcdonough20/bosonic-qiskit-tutorials/tree/main/bosonic_qiskit_textbook
 
 ## Structure
 This textbook in its current form is divided into five parts:
